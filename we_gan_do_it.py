@@ -11,8 +11,8 @@ from keras import layers
 
 
 num_imgs = 39
-imgs_dir = "C:/Users/farrj/Documents/Scripts/COMP4531/gan_stuff/stack_gan/data/sample_jpg/"
-captions_dir = "C:/Users/farrj/Documents/Scripts/COMP4531/gan_stuff/stack_gan/data/text_c10/text_c10/class_00001/image_06734.txt"
+imgs_dir = "data/sample_jpg/"
+captions_dir = "data/text_c10/image_06734.txt"
 
 images = []
 img_names_list = []
